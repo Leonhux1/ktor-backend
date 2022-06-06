@@ -1,3 +1,3 @@
 # ktor-backend #
-## DESCRIPTION: ##
-Json Objects
+### DESCRIPTION: ###
+A ktor backend that recieves a single JSON object at the endpoint "/endpoint".
