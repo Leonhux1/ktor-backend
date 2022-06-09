@@ -1,7 +1,7 @@
 # ktor-backend #
 ### DESCRIPTION: ###
 A ktor backend that recieves a single JSON object at the endpoint "/endpoint".
-### INSTALLATION ###
+### INSTALLATION: ###
 -> The file structure of a ktor project can be generated online via the website start.ktor.io. When installing the project, the Routing plugin should be selected.  
 After installation, the project should be opened in IntelliJ and the appropriateJDK should be selected. In the build.gradle.kts file, the following plugin should be added into the plugins section:  
 `kotlin("plugin.serialization") version <"version">`  
